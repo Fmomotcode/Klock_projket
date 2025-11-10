@@ -1,6 +1,6 @@
 /*
 * Name: övningsprojekt
-* Author: Victor Huke
+* Author: Filip Momot
 * Date: 2025-10-14
 * Description: This project uses a ds3231 to measure time and displays the time to an 1306 oled display, 
 * Further, it measures temprature with ds3231 and displays a mapped value to a 9g-servo-motor.
